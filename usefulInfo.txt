@@ -1,0 +1,11 @@
+Date: 11/05/2013
+
+Git is a version control software. 
+
+1> git download page: http://git-scm.com/downloads
+
+2> select operating system
+
+3> Save file
+
+4> install git(go next...)
