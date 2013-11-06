@@ -9,3 +9,14 @@ Git is a version control software.
 3> Save file
 
 4> install git(go next...)
+
+How to upload a local Folder into the git server...
+
+1> create a new git repository
+2> go to the local folder by git bash which we will upload
+3> type git init in bash then enter
+4> type git add -A then enter
+5> type git commit -m "enter comments"
+6> type git remote add origin git@github.com:bittechusa/BMon.git
+7> type git push -u origin master
+8> 
