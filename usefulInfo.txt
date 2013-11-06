@@ -19,4 +19,11 @@ How to upload a local Folder into the git server...
 5> type git commit -m "enter comments"
 6> type git remote add origin git@github.com:bittechusa/BMon.git
 7> type git push -u origin master
-8> 
+
+How to update a git folder
+
+1> go to the local folder by git bash which we will upload
+2> type git add -A then enter
+3> type git commit -m "enter comments"
+4> type git push
+5> type git pull
